@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #484848;
+}
+
+header{
+    border-style:none ;
+    height: 40px;
+    font-size: xx-large;
+    font-weight: 15%;
+    background:#484848;
+    border-radius: 20px;
+    padding-left: 200px; 
+    color: #0f928c;
+    padding-bottom: 50px;
+}
+
+h1{
+font-style:italic;
+font-family: 'Times New Roman', 'Times', 'serif';
+font-size: large;
+padding-top: 25px;
+font-weight: 50px;
+display: block;
+padding-bottom: 10px;
+color:#00c9d2;
+}
+
+h2{font-style:italic;
+    color:#beee3b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    padding-top: 2px;
+    font-weight: 800;
+    display: block;
+
+    
+}
